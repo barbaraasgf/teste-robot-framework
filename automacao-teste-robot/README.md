@@ -15,7 +15,7 @@ Por default deixei os testes para serem executados no chrome e para execução d
 Para utilizar o robot primeiro é necessário fazer algumas instalações e a forma mais simples é usando este comando que irá instalar todas as libraryes que estão na pasta requirements.txt:
 pip install -r requirements.txt
 
-setei a velocidade do selnium como 0.5 para o teste não executar tão rapido e ficar mais facil de avaliar as validações
+setei a velocidade do selenium como 0.5 para o teste não executar tão rapido e ficar mais facil de avaliar as validações
 
 para poder utilizar o terminal do vs code livremente e executar qualquer comando por ele usar no powershell o comando:
 set-executionpolicy -uxecutionpolicy unrestricted 
